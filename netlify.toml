@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/_next/:splat"
+  to = "/test/index.html"
   status = 200
