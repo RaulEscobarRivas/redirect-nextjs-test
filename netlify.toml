@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/_next/*"
+  to = "https://redirect-nextjs-test.netlify.app/_next/*"
   status = 200
