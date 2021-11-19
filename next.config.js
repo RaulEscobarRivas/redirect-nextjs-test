@@ -1,4 +1,4 @@
 module.exports = {
   reactStrictMode: true,
-  basePath: '/test'
+  basePath: '/redirect-nextjs-test'
 }

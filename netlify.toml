@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/test/index.html"
+  to = "/redirect-nextjs-test/index.html"
   status = 200
